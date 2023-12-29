@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-image: url('JDH_9167.jpg'); /* 이미지 파일의 경로를 정확하게 지정해주세요 */
+    background-size: cover; /* 화면에 꽉 차도록 배경 이미지 크기 조절 */
+    background-position: center; /* 이미지를 가운데 정렬 */
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: rgba(255, 255, 255, 0.8); /* 배경 이미지 위에 흰색 배경을 덧씌워 텍스트가 잘 보이도록 함 */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
+
+a {
+    color: #fff;
+    background-color: #4caf50;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+a:hover {
+    background-color: #45a049;
+}
