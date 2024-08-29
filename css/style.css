@@ -12,7 +12,7 @@ body {
     max-width: 600px;
     margin: 20px auto;
     background-color: rgba(255, 255, 255, 0.8); /* 배경 이미지 위에 흰색 배경을 덧씌워 텍스트가 잘 보이도록 함 */
-    padding: 50px;
+    padding: 10px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
